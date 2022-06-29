@@ -39,7 +39,8 @@ EMPTY
 * Belarusian State Economic University
 * The Rolling Scopes School
 ### Languages
-* English
+* **English**
     + **between C1 Advanced and C2 Proficient** according to [EF SET](http://www.EFset.org "www.EFset.org")'s 15 min quick check
+    - I've been studying English since I was 5yo. I read a lot in English, watching movies without translation, listening to podcasts
 * Belarusian (native)
 * Russian (fluently)
