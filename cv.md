@@ -1,4 +1,4 @@
-![applicant's photo](rsschool-cv/pics/am-photo.jpg "Aliaksandr Maiseyenka")
+![applicant's photo](/pics/am-photo.jpg "Aliaksandr Maiseyenka")
 # Aliaksandr Maiseyenka
 ### Junior Web Developer
 ------------
