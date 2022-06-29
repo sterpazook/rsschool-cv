@@ -26,7 +26,12 @@ Due to current global events my main job is quickly becoming irrelevant. So I've
 * VS Code
 * CorelDraw
 ### Code Example
-``` WOW, SUCH EMPTY ```
+```
+WOW,
+SUCH
+EMPTY 
+```
+` WOW, SUCH EMPTY `
 ### Projects
 * This CV file
 * http://SpiderMedia.Ru
