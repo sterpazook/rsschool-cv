@@ -1,1 +1,1 @@
-![Aliaksandr Maiseyenka](/pics/am-photo.jpg "applicant's photo")
+![applicant's photo](/pics/am-photo.jpg "Aliaksandr Maiseyenka")
