@@ -10,8 +10,8 @@
 
 ----------------------
 ### Summary
-I've been living in Minsk all my life. Visited Ukraine, Russia, UK, Greece, EU.
-I am married. We have three little kids (3, 5, 7 yo). 
+I've been living in Minsk all my life. Visited Ukraine, Russia, UK, Greece, EU.\
+I am married. We have three little kids (3, 5, 7 yo). \
 I have no bad habits and do sports occasionally.\
 I am advanced PC user (mostly Windows), used to work with MS Office, CorelDRAW, Photoshop, ACID Pro, SoundForge. Have some experience with Raspberry Pi. I prefer Android gadgets.\
 I like movies and retrowave music but my main hobbies are retrogames and comic books (Marvel, Image, DC, Avatar etc.) which I read only in English. I also officially translated some Marvel comic books for russian market. For more than 20 years I run my own website about comic books http://spidermedia.ru
