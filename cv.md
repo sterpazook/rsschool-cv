@@ -16,7 +16,7 @@ I have no bad habits and do sports occasionally.\
 I am advanced PC user (mostly Windows), used to work with MS Office, CorelDRAW, Photoshop, ACID Pro, SoundForge. Have some experience with Raspberry Pi. I prefer Android gadgets.\
 I like movies and retrowave music but my main hobbies are retrogames and comic books (Marvel, Image, DC, Avatar etc.) which I read only in English. I also officially translated some Marvel comic books for russian market. For more than 20 years I run my own website about comic books http://spidermedia.ru
 ### Working Experience
-My working experience mainly includes wholesale supply, sales and support of Schneider Electric equipment. But I also have experience in graphic design and mobile equipment commissioning though it was many years ago.\
+My working experience mainly includes wholesale supply, sales and support of Schneider Electric equipment. But I also have experience in graphic design and PDH SDH Microwave Radio Link Equipment commissioning though it was many years ago.\
 Due to current global events my main job is quickly becoming irrelevant. So I've decided to move forward and learn a new profession as a web developer. Especially since I run my own web-site and have some experience with HTML, PHP, Drupal, ModX and some other web-tools.
 ### Skills
 * HTML, CSS
