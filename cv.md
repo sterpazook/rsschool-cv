@@ -1,7 +1,7 @@
 ![applicant's photo](/pics/am-photo.jpg "Aliaksandr Maiseyenka")
 # Aliaksandr Maiseyenka
 ### Junior Web Developer
--------------
+------------
 ### Contacts
 **E-mail:** sterpazook@gmail.com\
 **Mobile:** +375 (29) 620-82-91\
