@@ -40,6 +40,6 @@ EMPTY
 * The Rolling Scopes School
 ### Languages
 * English
-    + **between C1 Advanced and C2 Proficient ** according to www.EFset.org 15min quick check
+    + **between C1 Advanced and C2 Proficient** according to www.EFset.org 15min quick check
 * Belarusian (native)
 * Russian (fluently)
