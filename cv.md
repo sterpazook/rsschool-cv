@@ -30,7 +30,7 @@ WOW,
 SUCH
 EMPTY 
 ```
-` WOW, SUCH EMPTY `
+Small piece of code `WOW, SUCH EMPTY`
 ### Projects
 * This CV file
 * http://SpiderMedia.Ru
