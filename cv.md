@@ -35,6 +35,6 @@ Due to current global events my main job is quickly becoming irrelevant. So I've
 * The Rolling Scopes School
 ### Languages
 * English
-    + **C1/C2** according to EFset.org 15min quick check
+    + **between C1 Advanced and C2 Proficient ** according to www.EFset.org 15min quick check
 * Belarusian (native)
 * Russian (fluently)
