@@ -1,1 +1,1 @@
-![Aliaksandr Maiseyenka](/rsschool-cv/pics/am-photo.jpg "applicant's photo")
+![Aliaksandr Maiseyenka](/pics/am-photo.jpg "applicant's photo")
