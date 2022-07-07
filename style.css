@@ -1,16 +1,69 @@
 html, body {
     font-family: Arial, serif;
-    font-size: 16px;
-    margin: 0;
-    padding: 0;
+    font-size: 16px;   
 }
-table {
-    border-collapse: collapse;
+
+header h1 {
+    text-align: justify;
+    font: bold 24px sans-serif;
 }
-table.border td, table.border th {
-    padding: 5px;
-    border: 1px solid #c0c0c0;
+
+.sterpazook {
+    font: normal 28px sans-serif;
+    margin-top: 10px
 }
-table.border th {
-    background: #e0e0e0;
+
+header h2 {
+    font-size: 20px ;
 }
+
+header {
+    background-color: #F0E68C ;
+    border: 1px solid #FFFACD;
+    border-radius: 10px;
+    padding: 10px;
+    float: right;
+    margin-right: 20%;
+    margin-bottom: 0px;
+    margin-top: -6%;
+    box-shadow: 
+        inset 0 -3em 3em rgba(0,0,0,0.1),
+        0.3em 0.3em 1em rgba(0,0,0,0.3);
+    transition: 0.5s; /* Время эффекта */
+    transform: rotate(20deg);
+}
+
+header:hover {
+    transform: scale(1.5) translate(-30%, 45%);
+   }
+
+header img {
+    border-radius: 10px;
+    width: 220px;
+    float: left;
+    margin-right: 15px;
+}
+
+main {
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    width: 30em;
+    
+}
+
+address {
+    font: normal 16px sans-serif;
+    margin-top: 10px;
+}
+
+ul {
+    list-style-type:circle;
+    margin-left: 3%;
+}
+
+main h1 {
+    font: bold 20px sans-serif;
+    margin-top: 10px
+}
+
