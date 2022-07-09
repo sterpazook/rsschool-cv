@@ -10,7 +10,7 @@
 </head>
 <body>
     
-    <header id="idcard"><span class="flare"></span>
+    <header id="idcard"><span class="light"></span>
         <img src="./images/am-photo.jpg" alt="Aliaksandr's photo">
         <h1>Aliaksandr Maiseyenka</h1>
         <h2>Junior Web Developer</h2>
@@ -40,13 +40,12 @@
         </ul>
     </nav>
     <main>
-        <section class="summary">  
+        <section>  
             <h1 id="summary">Summary</h1>
                 <p>I am advanced PC user (mostly Windows), used to work with MS Office, CorelDRAW, Photoshop, ACID Pro, SoundForge. Have some experience with Raspberry Pi. I prefer Android gadgets.<br>
         I like movies and retrowave music but my main hobbies are retrogames and comic books (Marvel, Image, DC, Avatar etc.) which I read only in English. I also officially translated some Marvel comic books for russian market. For more than 20 years I run my own website about comic books <a href="http://spidermedia.ru" target="_blank">SpiderMedia.ru</a></p>
         </section>
-
-        <section >
+        <section>
             <h1 id="experience">Working Experience</h1>
                 <p>My working experience mainly includes wholesale supply, sales and support of Schneider Electric equipment. But I also have experience in graphic design and PDH SDH Microwave Radio Link Equipment commissioning though it was many years ago.
 Due to current global events my main job is quickly becoming irrelevant. So I’ve decided to move forward and learn a new profession as a web developer. Especially since I run my own web-site and have some experience with HTML, PHP, Drupal, ModX and some other web-tools.</p>
@@ -63,15 +62,45 @@ Due to current global events my main job is quickly becoming irrelevant. So I’
         </section>
         <section>
             <h1 id="codexmpl">Code Example</h1>
-            <div>
-                <code>
-        WOW,
-        SUCH
-        EMPTY
-                </code>
-            </div>
-
-            <div>Small piece of code <code>WOW, SUCH EMPTY</code></div>
+<div><details><summary>Here ya go</summary><pre><code>header {
+        background-color: #F0E68C ;
+        border: 1px solid #FFFACD;
+        border-radius: 10px;
+        padding: 10px;
+        width: 30.8em;
+        height: 15em;
+        position: relative;
+        top: -7em;
+        margin-left:auto;
+        margin-right:auto;
+        z-index: 1;
+        box-shadow: 
+            inset 0 -3em 3em rgba(0,0,0,0.1),
+            2px 2px 6px 0px rgba(0, 0, 0, 0.9);
+        transition: 0.5s;
+        transform: rotate(15deg);
+        overflow-x: hidden;
+    }
+    header .light {
+        position: absolute;
+        top: 0;
+        height: 100%;
+        width: 45px;
+        transform: skewX(-45deg);
+        animation: light;
+        left: -150%;
+        background: linear-gradient(90deg, rgba(255, 255, 255, 0.1), rgba(255, 255, 255, 0.4));
+        animation: light 3s infinite linear;
+    }
+    @keyframes light {
+        0% {
+            left: -150%;
+        }
+        100% {
+            left: 150%;
+        }
+    }
+</code></pre></details>
         </section>
         <section>
             <h1 id="projects">Projects</h1>

@@ -8,7 +8,7 @@ html, body {
 }
 
 header h1 {
-    font: bold 24px sans-serif;
+    font: bold 22px sans-serif;
 }
 
 .sterpazook {
@@ -22,7 +22,7 @@ header h1 {
 }
 
 header h2 {
-    font-size: 20px ;
+    font-size: 18px ;
 }
 
 header {
@@ -30,31 +30,34 @@ header {
     border: 1px solid #FFFACD;
     border-radius: 10px;
     padding: 10px;
-    width: 32.5em;
+    width: 30.8em;
     height: 15em;
     position: relative;
-    top: -7em; margin-left:auto; margin-right:auto; z-index: 1;
+    top: -7em;
+    margin-left:auto;
+    margin-right:auto;
+    z-index: 1;
     box-shadow: 
         inset 0 -3em 3em rgba(0,0,0,0.1),
         2px 2px 6px 0px rgba(0, 0, 0, 0.9);
-    transition: 0.5s; /* Время эффекта */
+    transition: 0.5s;
     transform: rotate(15deg);
     overflow-x: hidden;
 }
 
-header .flare {
+header .light {
     position: absolute;
     top: 0;
     height: 100%;
     width: 45px;
-    transform: skewX(-45deg); // Наклон
-    animation: flareAnimation;
+    transform: skewX(-45deg);
+    animation: light;
     left: -150%;
     background: linear-gradient(90deg, rgba(255, 255, 255, 0.1), rgba(255, 255, 255, 0.4));
-    animation: flareAnimation 3s infinite linear; // Время и тип анимации можно менять
+    animation: light 3s infinite linear;
 }
 
-@keyframes flareAnimation {
+@keyframes light {
     0% {
         left: -150%;
     }
@@ -76,19 +79,20 @@ header img {
 }
 
 nav {
-    text-align: center;
+    text-align: right;
+    float: right;
     position: sticky;
-    top: 0em; 
+    top: 240px; left: 0em;
 }
 
 nav ul li {
-    display: inline;
-    background-color: #FFFACD;
+    display: block;
+    background-color: #F0E68C;
     text-decoration: none;
-    padding: 0.7em;
-    margin: -3px;
-    border-top-left-radius: 10px;
-    border-top-right-radius: 10px;
+    padding: 0.6em;
+    margin-bottom: 5px;
+    border-top-left-radius: 20px;
+    border-bottom-left-radius: 20px;
 }
 
 a {
@@ -124,7 +128,7 @@ section {
     font-family: 'Courier New', Courier, monospace ;
     font-size: 18px;
     padding: 30px;
-    margin: 15px;
+    
     background-color: #FFFACD;
     box-shadow: inset 0 -3em 3em rgba(0,0,0,0.2);
 }
@@ -184,4 +188,8 @@ footer a {
 .rsschool {    
     float: right;
     
+}
+
+code {
+    font-size: 12px;
 }
