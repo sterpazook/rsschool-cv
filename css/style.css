@@ -75,7 +75,6 @@ header img {
     height: 100%;
     float: left;
     margin-right: 10px;
-    margin-bottom: px; 
 }
 
 nav {
@@ -116,7 +115,7 @@ main {
     box-shadow: 2px 2px 6px 0px rgba(0, 0, 0, 0.9);
 }
 
-main h1 {
+main h2 {
     font: bold 20px 'Courier New', Courier, monospace;
     letter-spacing: 5px;
     margin-bottom: 15px;
