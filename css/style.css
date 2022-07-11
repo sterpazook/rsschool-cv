@@ -152,7 +152,7 @@ address {
 }
 
 address img {
-    vertical-align: middle;
+    margin-top: 2px;
     height: 1.1em;
     margin-right: 0.4em;
 }
@@ -204,4 +204,5 @@ footer a {
 
 .hljs {
     font-family: 'Encode Sans', sans-serif;
+    font-size: 0.8em;
 }
