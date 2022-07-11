@@ -101,10 +101,12 @@ section ul li {
 a {
     text-decoration: none;
     color: #0000ee;
+    display: inline-block;
+    transition: 0.3s;
 }
 
 a:hover {
-    color: red;
+    color: #ff0000;
 }
 
 main {
