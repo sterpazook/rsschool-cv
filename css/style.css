@@ -88,10 +88,10 @@ nav {
     text-align: right;
     float: right;
     position: sticky;
-    top: 240px; left: 0em;
+    top: 240px; right: 0em;
 }
 
-nav ul li {
+nav ul li a {
     display: block;
     background-color: #F0E68C;
     text-decoration: none;
