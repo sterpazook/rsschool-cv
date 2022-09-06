@@ -26,16 +26,15 @@ Due to current global events my main job is quickly becoming irrelevant. So I've
 * CorelDraw
 ### Code Example
 ```
-function even_or_odd(number) {
-  const even = "Even";
-  const odd = "Odd";
-  if ( number % 2 === 0 ) {
-    return even;
-  } else {
-    return odd;
-  }
-  
-}
+    function even_or_odd(number) {
+      const even = "Even";
+      const odd = "Odd";
+      if ( number % 2 === 0 ) {
+        return even;
+      } else {
+        return odd;
+      }
+    }
 ```
 Small piece of code `const typeOfSum = (a,b) => a === `${a}` || b === `${b}` ? 'string' : 'number';`
 ### Projects
