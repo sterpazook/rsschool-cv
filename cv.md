@@ -1,4 +1,4 @@
-![applicant's photo](pics/am-photo.jpg "Aliaksandr Maiseyenka")
+![applicant's photo](assets/img/am-photo.jpg "Aliaksandr Maiseyenka")
 # Aliaksandr Maiseyenka
 ### Junior Web Developer
 ------------
