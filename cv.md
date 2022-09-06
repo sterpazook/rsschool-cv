@@ -14,7 +14,7 @@ For the last 12 years I have been working for official Schneider Electric distri
 
 I am advanced PC user: MS Office, Google Docs/Sheets, WEB, CRM, 1C, Slack, CorelDRAW. Basic level HTML, CSS, JS. I prefer Android gadgets and have some experience with Raspberry Pi.
 
-Due to global events my current job may become irrelevant. So I’ve recently started studying the Web Development. Especially since I run my own web-site http://SpiderMedia.ru for more than 20 years.
+Due to global events my current job may become irrelevant. So I’ve recently started studying the Web Development. Especially since I run my own web-site [SpiderMedia.ru](http://SpiderMedia.ru "Major russian-language portal about comic books and all things related") for more than 20 years.
 
 I like movies and electronic music but my main hobbies are retro-games and original comic books such as Marvel, Image, DC, Avatar etc. I also officially translated some Marvel comic books for such publishers as Alden Comics and Jellyfish Jam.
 
@@ -44,8 +44,8 @@ Due to current global events my main job is quickly becoming irrelevant. So I've
 ```
 Small piece of code `const typeOfSum = (a,b) => a === `${a}` || b === `${b}` ? 'string' : 'number';`
 ### Projects
-* This CV file
-* http://SpiderMedia.Ru
+* This CV file + it's [web-page version](https://sterpazook.github.io/rsschool-cv/ "CV")
+* [SpiderMedia.ru](http://SpiderMedia.Ru "Major russian-language portal about comic books and all things related")
 ### Education
 * Belarusian State Economic University
 * The Rolling Scopes School
