@@ -42,7 +42,7 @@ Due to current global events my main job is quickly becoming irrelevant. So I've
       }
     }
 ```
-Small piece of code ``const typeOfSum = (a,b) => a === `${a}` || b === `${b}` ? 'string' : 'number';``
+Small piece of code `WOW, SUCH EMPTY`
 ### Projects
 * This CV file + its [web-page version](https://sterpazook.github.io/rsschool-cv/ "CV")
 * [SpiderMedia.ru](http://SpiderMedia.Ru "Major russian-language portal about comic books and all things related")
