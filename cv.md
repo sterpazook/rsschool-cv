@@ -1,4 +1,4 @@
-![applicant's photo](pics/am-photo.jpg "Aliaksandr Maiseyenka")
+![applicant's photo](assets/img/am-photo.jpg "Aliaksandr Maiseyenka")
 # Aliaksandr Maiseyenka
 ### Junior Web Developer
 ------------
@@ -10,14 +10,20 @@
 
 ----------------------
 ### Summary
-I've been living in Minsk all my life. Visited Ukraine, Russia, UK, Greece, EU.\
-I am married. We have three little kids (3, 5, 7 yo). \
-I have no bad habits and do sports occasionally.\
-I am advanced PC user (mostly Windows), used to work with MS Office, CorelDRAW, Photoshop, ACID Pro, SoundForge. Have some experience with Raspberry Pi. I prefer Android gadgets.\
-I like movies and retrowave music but my main hobbies are retrogames and comic books (Marvel, Image, DC, Avatar etc.) which I read only in English. I also officially translated some Marvel comic books for russian market. For more than 20 years I run my own website about comic books http://spidermedia.ru
+For the last 12 years I have been working for official Schneider Electric distributor in Belarus. My experience mainly includes wholesale supply, sales and support of Schneider Electric equipment. I also have experience in graphic design and PDH Microwave Radio Link Equipment commissioning.
+
+I am advanced PC user: MS Office, Google Docs/Sheets, WEB, CRM, 1C, Slack, CorelDRAW. Basic level HTML, CSS, JS. I prefer Android gadgets and have some experience with Raspberry Pi.
+
+Due to global events my current job may become irrelevant. So I’ve recently started studying the Web Development. Especially since I run my own web-site [SpiderMedia.ru](http://SpiderMedia.ru "Major russian-language portal about comic books and all things related") for more than 20 years.
+
+I like movies and electronic music but my main hobbies are retro-games and original comic books such as Marvel, Image, DC, Avatar etc. I also officially translated some Marvel comic books for such publishers as Alden Comics and Jellyfish Jam.
+
+Currently I am looking for a new job and open to any offers.
+
+PS: No bad habits, married, have kids. Driving licence B.
 ### Working Experience
 My working experience mainly includes wholesale supply, sales and support of Schneider Electric equipment. But I also have experience in graphic design and PDH SDH Microwave Radio Link Equipment commissioning though it was many years ago.\
-Due to current global events my main job is quickly becoming irrelevant. So I've decided to move forward and learn a new profession as a web developer. Especially since I run my own web-site and have some experience with HTML, PHP, Drupal, ModX and some other web-tools.
+Due to current global events my main job is quickly becoming irrelevant. So I've decided to move forward and learn a new profession as a web developer. Especially since I run my own web-site and have some experience with HTML, PHP, Drupal, ModX etc.
 ### Skills
 * HTML, CSS
 * Git/GitHub
@@ -26,14 +32,20 @@ Due to current global events my main job is quickly becoming irrelevant. So I've
 * CorelDraw
 ### Code Example
 ```
-WOW,
-SUCH
-EMPTY 
+    function even_or_odd(number) {
+      const even = "Even";
+      const odd = "Odd";
+      if ( number % 2 === 0 ) {
+        return even;
+      } else {
+        return odd;
+      }
+    }
 ```
-Small piece of code `WOW, SUCH EMPTY`
+Small piece of code `const typeOfSum = (a,b) => a === `${a}` || b === `${b}` ? 'string' : 'number';`
 ### Projects
-* This CV file
-* http://SpiderMedia.Ru
+* This CV file + its [web-page version](https://sterpazook.github.io/rsschool-cv/ "CV")
+* [SpiderMedia.ru](http://SpiderMedia.Ru "Major russian-language portal about comic books and all things related")
 ### Education
 * Belarusian State Economic University
 * The Rolling Scopes School
