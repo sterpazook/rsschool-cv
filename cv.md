@@ -23,7 +23,7 @@ Currently I am looking for a new job and open to any offers.
 PS: No bad habits, married, have kids. Driving licence B.
 ### Working Experience
 My working experience mainly includes wholesale supply, sales and support of Schneider Electric equipment. But I also have experience in graphic design and PDH SDH Microwave Radio Link Equipment commissioning though it was many years ago.\
-Due to current global events my main job is quickly becoming irrelevant. So I've decided to move forward and learn a new profession as a web developer. Especially since I run my own web-site and have some experience with HTML, PHP, Drupal, ModX and some other web-tools.
+Due to current global events my main job is quickly becoming irrelevant. So I've decided to move forward and learn a new profession as a web developer. Especially since I run my own web-site and have some experience with HTML, PHP, Drupal, ModX etc.
 ### Skills
 * HTML, CSS
 * Git/GitHub
